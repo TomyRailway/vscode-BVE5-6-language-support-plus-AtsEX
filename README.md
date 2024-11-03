@@ -1,11 +1,12 @@
 [![CI](https://github.com/aoisupersix/vscode-bve5-language-support/actions/workflows/ci.yml/badge.svg)](https://github.com/aoisupersix/vscode-bve5-language-support/actions/workflows/ci.yml)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](/LICENSE.md)
 
-# Bve5/6 Language Support for VSCode
+# Bve5/6 Language Support Plus AtsEX for VSCode
 
 ![bve5-language-support](images/language-support.png)
 
-VSCode で BveTrainsim5/6 構文をサポートするための拡張です。
+VSCode で BveTrainsim5/6 構文をサポートするための拡張機能です。  
+AtsEXの独自構文やプラグインのクラス等のサポートも行えるようにする予定です。  
 
 ## Features
 
